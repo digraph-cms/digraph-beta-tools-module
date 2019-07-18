@@ -1,0 +1,12 @@
+{
+    "name": "digraphcms/digraph-beta-tools",
+    "description": "Beta/migration tools for Digraph CMS.",
+    "type": "digraph-module",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Joby Elliott",
+            "email": "joby@byjoby.com"
+        }
+    ]
+}
